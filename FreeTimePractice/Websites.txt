@@ -1,7 +1,0 @@
-Websites to practice&learn:
-
--Learning:
-https://math.libretexts.org/Bookshelves/Applied_Mathematics/Applied_Finite_Mathematics_(Sekhon_and_Bloom)/04%3A_Linear_Programming_The_Simplex_Method/4.02%3A_Maximization_By_The_Simplex_Method/4.2.01%3A_Maximization_By_The_Simplex_Method_(Exercises)
-
--Practice:
-https://www.coursesidekick.com/mathematics/study-guides/sanjacinto-finitemath1/3-3-exercises-simplex-method
